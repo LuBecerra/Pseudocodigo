@@ -1,1 +1,1 @@
-# ProyectoTurismo
+# Ejercitación pseudocódigo
